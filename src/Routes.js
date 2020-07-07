@@ -19,7 +19,9 @@ let theme = createMuiTheme({
       main: "#fff"
     },
     default: {
-      main: "#2a2c47"
+      light: "#2c304a",
+      main: "#2a2c47",
+      dark: "#1f2336"
     },
     contrastThreshold: 3,
     tonalOffset: 0.2

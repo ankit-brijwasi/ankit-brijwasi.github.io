@@ -6,6 +6,7 @@ import Hero from "./Hero";
 import Details from "./Details";
 import Projects from "./Projects";
 import Testimonials from "./Testimonials";
+import Technologies from "./Technologies";
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -52,6 +53,9 @@ function Home(props) {
       <Divider style={{ backgroundColor: "rgba(252,252,252,.09)" }} />
       <div className={classes.child2}>
         <Testimonials />
+      </div>
+      <div className={classes.child2}>
+        <Technologies />
       </div>
     </div>
   );

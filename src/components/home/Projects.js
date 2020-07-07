@@ -92,7 +92,7 @@ const useStyles = makeStyles(theme => ({
     borderRadius: 0,
     color: theme.palette.primary.main,
     fontSize: "13px",
-    fontWeight: 300,
+    fontWeight: 500,
     "&:hover": {
       backgroundColor: theme.palette.primary.main,
       color: "#404040"
