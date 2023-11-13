@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb4dc31f.css",
-    "main.js": "/static/js/main.877d65b4.js",
+    "main.css": "/static/css/main.609f96d6.css",
+    "main.js": "/static/js/main.0e181a13.js",
     "static/media/dripdrop.png": "/static/media/dripdrop.b5a7ccf0d7e164634414.png",
     "static/media/postgresql.png": "/static/media/postgresql.26779775d1e8cd4785d8.png",
     "static/media/go-gin.png": "/static/media/go-gin.6f9ec69eec259f5dee2c.png",
@@ -25,11 +25,11 @@
     "static/media/grpc.png": "/static/media/grpc.0054f3c5303b5d7b0d63.png",
     "static/media/django.webp": "/static/media/django.f94935631bb0043b8c34.webp",
     "index.html": "/index.html",
-    "main.fb4dc31f.css.map": "/static/css/main.fb4dc31f.css.map",
-    "main.877d65b4.js.map": "/static/js/main.877d65b4.js.map"
+    "main.609f96d6.css.map": "/static/css/main.609f96d6.css.map",
+    "main.0e181a13.js.map": "/static/js/main.0e181a13.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb4dc31f.css",
-    "static/js/main.877d65b4.js"
+    "static/css/main.609f96d6.css",
+    "static/js/main.0e181a13.js"
   ]
 }
