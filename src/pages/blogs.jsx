@@ -21,7 +21,7 @@ function formatTime(date) {
 
 const ArticleComponent = ({ article }) => {
   return (
-    <Box className="p-0">
+    <Box className="p-0" responsive>
       <div className="px-2 py-4">
         <h4 className="text-lg line-clamp-2 break-words font-mono leading-5 mb-2">
           {article.title}

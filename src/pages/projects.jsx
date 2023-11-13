@@ -11,19 +11,15 @@ import chatapp from "../assets/projects/chat-app.png";
 
 const ProjectCard = (props) => {
   return (
-    <Box className="p-0">
-      <div className="relative">
-        <img
-          src={props.img.src}
-          alt={props.img.alt}
-          width={345}
-          height={200}
-          style={{
-            width: "345px",
-            height: "200px",
-          }}
-        />
-      </div>
+    <Box className="p-0" responsive>
+      <img
+        src={props.img.src}
+        alt={props.img.alt}
+        style={{
+          width: "100%",
+          height: "200px",
+        }}
+      />
       <div className="px-2 pt-2 pb-4">
         <h3 className="text-xl font-bold line-clamp-2 break-words font-mono mb-1">
           {props.title}

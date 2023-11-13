@@ -30,7 +30,7 @@ import golangLogo from "../assets/Go.png";
 
 const SkillCard = ({ skillInfo }) => {
   return (
-    <Box className="flex items-center justify-center px-0 py-3">
+    <Box className="flex items-center justify-center px-0 py-3" responsive>
       <div className="basis-1/3">
         <img
           src={skillInfo.img}
