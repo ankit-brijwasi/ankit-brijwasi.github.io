@@ -8,7 +8,7 @@ import Home from "./pages/home";
 
 const Layout = () => {
   return (
-    <article className="mx-auto w-full max-w-[700px] min-h-screen">
+    <article className="mx-auto px-4 sm:px-2 w-full max-w-[700px] min-h-screen">
       <Navbar />
       <Outlet />
       <Footer />

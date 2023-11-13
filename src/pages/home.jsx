@@ -1,9 +1,9 @@
 export default function Home() {
   return (
     <>
-      <p className="leading-loose text-left">
+      <p className="leading-loose text-justify">
         <span className="mb-3 block">
-          👋 Hey there! I&apos;m a <strong>Backend Engineer</strong>🚀,
+          Hey there👋! I&apos;m a <strong>Backend Engineer</strong>🚀,
           passionate about <strong>creating new and exciting products</strong>{" "}
           at <strong>Neurobit Innovations</strong>💡.
         </span>
